@@ -17,3 +17,11 @@ Finally, I used the descriptions of the artists and picked out key words that de
 - Saxophone melody with synth hits in a mellow vibe with a moderate tempo
 - Jazz fusion with synth guitar and drums that evokes thoughts of winter snowfall
 - Smooth jazz for a cool and sunny day
+
+
+# Albums
+This repo contains several albums.
+
+- Current Conditions - The original release in 2025
+- Holiday - The first holiday release in 2025
+- Latest Observations - Second album released in 2026
