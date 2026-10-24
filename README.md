@@ -25,3 +25,22 @@ This repo contains several albums.
 - Current Conditions - The original release in 2025
 - Holiday - The first holiday release in 2025
 - Latest Observations - Second album released in 2026
+
+# Licensing
+ 
+| Folder | License | Commercial use (e.g. monetized streams) |
+|---|---|---|
+| `Latest Observations` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | ✅ Yes, with attribution |
+| `Current Conditions` | Owned by Suno, non-commercial only | ❌ No |
+| `Holiday` | Owned by Suno, non-commercial only | ❌ No |
+ 
+**Using `Latest Observations` tracks:** credit them as
+*"Music from ws4kp-music by netbymatt, CC BY 4.0"* with a link to this repository.
+ 
+**`Current Conditions` and `Holiday`** were made on Suno's free plan. Suno owns them,
+and this repository cannot license them to you. If you stream WeatherStar 4000+
+on a monetized channel, use only the `Latest Observations` folder.
+ 
+All music is AI-generated with [Suno](https://suno.com) and provided as-is.
+See [LICENSE.md](LICENSE.md) for full details.
+ 
