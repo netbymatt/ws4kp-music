@@ -25,6 +25,7 @@ This repo contains several albums.
 - Current Conditions - The original release in 2025
 - Holiday - The first holiday release in 2025
 - Latest Observations - Second album released in 2026
+- Local on the 13s - Halloween album released in 2026
 
 # Licensing
  
@@ -32,9 +33,10 @@ This repo contains several albums.
 |---|---|---|
 | `Latest Observations` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | ✅ Yes, with attribution |
 | `Current Conditions` | Owned by Suno, non-commercial only | ❌ No |
+| `Local on the 13s` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | ✅ Yes, with attribution |
 | `Holiday` | Owned by Suno, non-commercial only | ❌ No |
  
-**Using `Latest Observations` tracks:** credit them as
+**Using `Latest Observations` and `Local on the 13s` tracks:** credit them as
 *"Music from ws4kp-music by netbymatt, CC BY 4.0"* with a link to this repository.
  
 **`Current Conditions` and `Holiday`** were made on Suno's free plan. Suno owns them,

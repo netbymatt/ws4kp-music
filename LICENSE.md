@@ -4,7 +4,7 @@ This repository contains music under two different terms. Check which folder a t
 
 ## Latest Observations — CC BY 4.0
 
-All audio files in the `Latest Observations` folder are licensed under the
+All audio files in the `Latest Observations` and `Local on the 13s` folder are licensed under the
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 Copyright (c) 2026 netbymatt
